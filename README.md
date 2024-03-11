@@ -1,4 +1,4 @@
-Hello World! 👋
+👋 Hello World!
 
 <!---
 duyanh221204/duyanh221204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
